@@ -17,7 +17,7 @@ var clock = new THREE.Clock();
 var resolutions = [
 	{name: 'dk1', w: 1280, h: 800},
 	{name: 'fhd', w: 1920, h: 1080},
-	{name: 'cv1', w: 2560, h: 1440},
+	{name: 'cv1', w: 2160, h: 1200},
 	{name: 'cv2', w: 3840, h: 2160}
 ];
 
